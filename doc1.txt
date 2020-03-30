@@ -1,1 +1,2 @@
 ﻿/home/evgen/Documents/git_repo
+https://github.com/Evgen-git/X5_bot.git
